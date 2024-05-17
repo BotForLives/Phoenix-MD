@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "27767494368"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -39,12 +39,12 @@
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "ÆVE"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "2767494368"
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
